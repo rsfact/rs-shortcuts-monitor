@@ -1,0 +1,3 @@
+[default]
+url = https://example.your-webhook.com
+user_uid = user123
